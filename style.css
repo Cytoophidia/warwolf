@@ -1,0 +1,23 @@
+.box {
+  background-color: blanchedalmond;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 1px black;
+  margin: 20px;
+}
+
+button {
+  background-color: blanchedalmond;
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 1px black;
+  margin: 20px;
+}
+
+.onpress {
+  background-color: rgb(139, 110, 66);
+  padding: 20px;
+  border-radius: 10px;
+  border: solid 1px black;
+  margin: 20px;
+}
